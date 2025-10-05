@@ -1,0 +1,42 @@
+"disease_name","severity" 
+Fungal infection,Harmless
+Allergy,Harmless
+GERD,Harmless
+Chronic cholestasis,Harmless
+Drug Reaction,Harmless
+Peptic ulcer disease,Harmless
+AIDS,Harmful
+Diabetes,Harmful
+Gastroenteritis,Harmless
+Bronchial Asthma,Harmless
+Hypertension,Harmless
+Migraine,Harmless
+Cervical spondylosis,Harmless
+Paralysis (brain hemorrhage),Harmful
+Jaundice,Harmful
+Malaria,Harmful
+Chicken pox,Harmless
+Dengue,Harmful
+Typhoid,Harmful
+Hepatitis A,Harmless
+Hepatitis B,Harmful
+Hepatitis C,Harmful
+Hepatitis D,Harmful
+Hepatitis E,Harmful
+Alcoholic hepatitis,Harmful
+Tuberculosis,Harmful
+Common Cold,Harmless
+Pneumonia,Harmful
+Dimorphic hemorrhoids (piles),Harmless
+Heart attack,Harmful
+Varicose veins,Harmless
+Hypothyroidism,Harmless
+Hyperthyroidism,Harmless
+Hypoglycemia,Harmless
+Osteoarthritis,Harmless
+Arthritis,Harmless
+Vertigo (Paroxysmal Positional Vertigo),Harmless
+Acne,Harmless
+Urinary tract infection,Harmless
+Psoriasis,Harmless
+Impetigo,Harmless
